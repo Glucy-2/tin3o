@@ -8,6 +8,6 @@ public class TIN3O implements ModInitializer {
     public static final Logger LOGGER = LoggerFactory.getLogger("tin3o");
     @Override
     public void onInitialize() {
-        LOGGER.info("TIN3O is enabling.There is no out-of-order!!");
+        LOGGER.info("TIN3O is enabling. There is no out-of-order!!");
     }
 }
